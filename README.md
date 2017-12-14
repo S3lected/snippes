@@ -88,4 +88,4 @@ Commit it: `git commit -m ".gitignore is now working"`
 # npm snippes
 
 ## Proxy settings
-add in `$ vi ~/.npmrc` follow line `https-proxy=http://urlToProxy:8080`
+add in `~/.npmrc` follow line `https-proxy=http://urlToProxy:8080`
