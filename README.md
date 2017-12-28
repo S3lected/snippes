@@ -137,3 +137,8 @@ First commit any outstanding code changes, and then, run this command: `git rm -
 This removes any changed files from the index(staging area), then just run: `git add .`
 
 Commit it: `git commit -m ".gitignore is now working"`
+
+# npm snippes
+
+## Proxy settings
+add in `~/.npmrc` follow line `https-proxy=http://urlToProxy:8080`
