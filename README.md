@@ -87,5 +87,18 @@ Commit it: `git commit -m ".gitignore is now working"`
 
 # npm snippes
 
+## update packages
+`npm update`
+
 ## Proxy settings
 add in `~/.npmrc` follow line `https-proxy=http://urlToProxy:8080`
+
+# bash snippes
+
+## iso to usb on mac os
+```shell
+> diskutil list
+> diskutil unmountDisk /dev/disk2
+> sudo dd if=/path/to/foo/bar/image.iso of=/dev/disk2 bs=1m
+> diskutil eject /dev/disk2
+```
