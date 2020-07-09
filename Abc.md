@@ -12,4 +12,4 @@ jsklajskjaksj
 |    | bbb |    |  ssss |   |
 |    |  ddddddd   |    |  ssss |   |
 
-[www.google.de](Link zu Google)
+[I'm an inline-style link](https://www.google.com)
