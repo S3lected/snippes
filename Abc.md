@@ -12,4 +12,4 @@ jsklajskjaksj
 |    | bbb |    |  ssss |   |
 |    |  ddddddd   |    |  ssss |   |
 
-(www.google.de)[Link zu Google]
+[www.google.de](Link zu Google)
